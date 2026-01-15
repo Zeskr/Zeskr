@@ -15,5 +15,5 @@ Final-year Engineering student specializing in Cybersecurity. Focused on manual 
 
 ### 🔗 Credentials & Proof of Work
 * **Portfolio Repository:** [Web Security & Lab Write-ups](https://github.com/Zeskr/web-security-portfolio)
-* **Certifications:** CEH Master | IBM Cybersecurity Analyst *(In Progress)*
-* **Platforms:** [HackerOne](#) | [Bugcrowd](#) | [Credly Profile](#)
+* **Certifications:** CEH Master | IBM Cybersecurity Analyst
+* **Platforms:** [HackerOne](#) | [Intigriti](#) | [Credly](#)
