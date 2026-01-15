@@ -1,6 +1,6 @@
 # Zeskr | Application Security & Web Penetration Testing
 
-Final-year B.Tech student specializing in Cybersecurity. Focused on manual web application security assessments, broken access control (IDOR/BAC), business logic testing, and actionable vulnerability remediation for modern web stacks.
+Final-year Engineering student specializing in Cybersecurity. Focused on manual web application security assessments, broken access control (IDOR/BAC), business logic testing, and actionable vulnerability remediation for modern web stacks.
 
 ### 🛠️ Technical Focus & Methodology
 * **AppSec Assessment:** Manual identification of OWASP Top 10 vulnerabilities (Access Control, SSRF, SQLi, XSS, CSRF).
