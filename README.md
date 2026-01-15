@@ -42,6 +42,5 @@ Finding a vulnerability is only half the process. I structure my write-ups to en
 ---
 
 ## 🏆 Certifications & Platforms
-*   **Certifications:** IBM Cybersecurity Analyst Professional, Certified Ethical Hacker (CEH) Theory, Certified Ethical Hacker (CEH) Practical *(In Progress)*
 *   **Continuous Learning:** [TryHackMe](https://tryhackme.com/p/Zeskr)
-*   **Badges:** [Credly Profile](https://www.credly.com/users/lakshya-jain.d5b7eda0)
+*   **Certifications:** IBM Cybersecurity Analyst Professional, Certified Ethical Hacker (CEH) Theory, Certified Ethical Hacker (CEH) Practical *(In Progress)*
