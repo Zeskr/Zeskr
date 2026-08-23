@@ -1,16 +1,19 @@
-## Hi there 👋
+# Zeskr | Application Security & Web Penetration Testing
 
-<!--
-**Zeskr/Zeskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech student specializing in Cybersecurity. Focused on manual web application security assessments, broken access control (IDOR/BAC), business logic testing, and actionable vulnerability remediation for modern web stacks.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Focus & Methodology
+* **AppSec Assessment:** Manual identification of OWASP Top 10 vulnerabilities (Access Control, SSRF, SQLi, XSS, CSRF).
+* **Business Logic & Workflow Auditing:** Deep-dive manual traffic inspection and testing beyond automated scanner coverage.
+* **Triage & Remediation:** Authoring clear, reproducible Proof-of-Concepts (PoCs) with concrete developer fix recommendations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Stack
+* **Proxies & Interception:** Burp Suite Community, FoxyProxy
+* **Recon & Enumeration:** Nmap, ffuf, Gobuster
+* **Automation & Scripting:** Python, Bash
+* **Documentation:** Markdown, Git
+
+### 🔗 Credentials & Proof of Work
+* **Portfolio Repository:** [Web Security & Lab Write-ups](https://github.com/Zeskr/web-security-portfolio)
+* **Certifications:** CEH Master | IBM Cybersecurity Analyst *(In Progress)*
+* **Platforms:** [HackerOne](#) | [Bugcrowd](#) | [Credly Profile](#)
